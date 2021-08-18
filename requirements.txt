@@ -1,0 +1,8 @@
+tqdm
+numpy
+colour
+torch==1.8.1
+opencv_python
+torchvision==0.9.1
+pycuda==2021.1
+tensorrt==0.0.1
